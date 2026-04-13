@@ -24,13 +24,13 @@ repository               : "micky-2022/micky-2022.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Pengcheng Su"
+  pronouns         : "he/h" # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Peking University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pcs@pku.edu.cn" 
 
   # Academic websites
   academia         : # URL
