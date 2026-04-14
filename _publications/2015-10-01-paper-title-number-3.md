@@ -4,7 +4,7 @@ collection: publications
 category: preprint
 permalink: /publication/2026-04
 excerpt: ''
-date: 2026-4
+date: 2026-04-07
 venue: "Cryptology ePrint Archive"
 slidesurl: ''
 paperurl: 'https://ia.cr/2026/667'
