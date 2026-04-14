@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-07
 excerpt: ''
-date: 2026-7
+date: 2026-07-01
 venue: 'IEEE Computer Security Foundations Symposium (CSF 2026)'
 slidesurl: ''
 paperurl: ''
