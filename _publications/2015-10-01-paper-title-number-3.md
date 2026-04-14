@@ -2,7 +2,7 @@
 title: "Which Privacy Blanket is Optimal in the Shuffle Model?"
 collection: publications
 category: preprint
-permalink: 
+permalink: /publication/2026-04
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2026-4
 venue: "Cryptology ePrint Archive"
