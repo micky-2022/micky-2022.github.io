@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2026-05
 excerpt: ''
-date: 2026-5
+date: 2026-05-18
 venue: 'IEEE Symposium on Security and Privacy (S&P 2026)'
 slidesurl: ''
 paperurl: ''
