@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Introduction to Theory of Computation (TA)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Turing Class, Peking University"
+date: 2024.3-2024.7
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Grade assignments and provide one-on-one academic support to students. Currently compiling a ``Problem Set on Theory of Computation'' as a supplementary learning resource.
 
 Heading 1
 ======
