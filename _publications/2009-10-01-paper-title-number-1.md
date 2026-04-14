@@ -9,6 +9,6 @@ venue: 'IEEE Computer Security Foundations Symposium (CSF 2026)'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: 'Pengcheng Su, Haibo Cheng, Ping Wang. (2026) &quot;Bayesian Advantage of Re-Identification Attack in the Shuffle Model.&quot; <i>In 2026 IEEE 39th Computer Security Foundations Symposium</i>'
+# citation: 'Pengcheng Su, Haibo Cheng, Ping Wang. (2026) &quot;Bayesian Advantage of Re-Identification Attack in the Shuffle Model.&quot; <i>In 2026 IEEE 39th Computer Security Foundations Symposium</i>'
 ---
 
