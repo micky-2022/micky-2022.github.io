@@ -9,11 +9,3 @@ date: 2024-03-01
 
 Grade assignments and provide one-on-one academic support to students. Currently compiling a ``Problem Set on Theory of Computation'' as a supplementary learning resource.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
