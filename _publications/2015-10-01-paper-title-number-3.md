@@ -1,7 +1,7 @@
 ---
 title: "Which Privacy Blanket is Optimal in the Shuffle Model?"
 collection: publications
-category: Preprints
+category: preprint
 permalink: /publication/2026-04
 excerpt: ''
 date: 2026-04-07
