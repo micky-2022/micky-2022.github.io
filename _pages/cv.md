@@ -34,6 +34,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * Reviewer, IEEE Transactions on Information Forensics and Security (TIFS), 2025
